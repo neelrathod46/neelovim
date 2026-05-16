@@ -1,3 +1,5 @@
+-- COLOUR SCHEME
+vim.cmd [[colorscheme moonfly]]
 vim.opt.number = true -- line numbers
 vim.opt.relativenumber = true -- relative line numbers
 -- useful for jumping to lines like '7k' will go to 7th line above current line 
