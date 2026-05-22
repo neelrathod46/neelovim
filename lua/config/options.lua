@@ -14,7 +14,7 @@ vim.opt.scrolloff = 999  -- cursor doesnt go below middle of screen, screen will
 
 vim.opt.wrap = false  
 
-vim.opt.tabstop = 4 -- <TAB> = 4 spaces
+vim.opt.tabstop = 5 -- <TAB> = 4 spaces
 vim.opt.expandtab = true -- tabspace is replaced with spaces
 vim.opt.smartindent = true -- auto indents C code
 vim.opt.shiftwidth = 4 -- shiftwidth is no. of spaces per indent level
